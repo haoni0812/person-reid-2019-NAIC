@@ -11,9 +11,9 @@ This is a temporary script file.
 
 import json
 
-with open(".\mgn.json", 'r') as f1:
+with open("mgn.json", 'r') as f1:
     b = json.load(f1)
-with open("TestB_NH_result_4768_one_ibn101a_rankedloss_rerank+4768_offi_base_ibn101a_woRE_rerank+4768_one_ibn101a_bdb_rerank.json", 'r') as f2:
+with open("BDB.json", 'r') as f2:
     a = json.load(f2)
 
 print(len(a))
