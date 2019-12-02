@@ -1,4 +1,4 @@
-#  四、项目运行办法
+#  项目运行办法
 # **项目的文件结构**
 person-reid-2019-NAIC：  
 │    &emsp;&emsp;&ensp;BDB.json  
